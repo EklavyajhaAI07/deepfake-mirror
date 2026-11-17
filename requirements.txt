@@ -1,0 +1,10 @@
+# Core dependencies for DeepFake Mirror
+# Optimized for Hugging Face Spaces (Streamlit SDK) & Streamlit Cloud
+
+deepface==0.0.105
+torch>=2.0.0
+torchvision>=0.15.0
+pillow>=10.0.0
+streamlit>=1.30.0
+opencv-contrib-python-headless>=4.8.0
+numpy>=1.24.0
